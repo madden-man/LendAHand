@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LendAHand</string>
+    <string name="student_id">Student ID:</string>
+    <string name="password">Password:</string>
+    <string name="login">Log In Here!</string>
+    <string name="email">Email:</string>
+</resources>
